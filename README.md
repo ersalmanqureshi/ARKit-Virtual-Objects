@@ -12,4 +12,4 @@ Salman Qureshi, er.salmanqureshi@gmail.com
 
 ## License
 
-**SQCanvas** is available under the MIT license. See the LICENSE file for more info.
+**ARKit-Virtual-Objects** is available under the MIT license. See the LICENSE file for more info.
